@@ -1,0 +1,8 @@
+ID=Dongds
+NAME=EastRiver2020
+DESCRIPTION= East River, tributary of the Pearl River, South-East China.
+IN-VERSION=1.0
+OUT-VERSION=2.0
+GISFILELIST=./upload.list
+STRETCH_TAB=./river2.att
+DISCH_TAB=./disch.att

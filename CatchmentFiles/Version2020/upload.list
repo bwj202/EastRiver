@@ -1,0 +1,25 @@
+#PATH,NAME,OBJ_TYPE,OBJ_SUB_TYPE
+#
+# CATCHBOUND
+#
+./catchbound.dbf,rivernet,CATCHMENT,CATCHBOUND
+./catchbound.shp,rivernet,CATCHMENT,CATCHBOUND
+./catchbound.shx,rivernet,CATCHMENT,CATCHBOUND
+#
+# RIVERNET
+#
+./rivernet.dbf,rivernet,CATCHMENT,RIVERNET
+./rivernet.shp,rivernet,CATCHMENT,RIVERNET
+./rivernet.shx,rivernet,CATCHMENT,RIVERNET
+#
+# DISCHARGES
+#
+./discharges.dbf,rivernet,CATCHMENT,DISCHARGES
+./discharges.shp,rivernet,CATCHMENT,DISCHARGES
+./discharges.shx,rivernet,CATCHMENT,DISCHARGES
+#
+# DISCH_RIVER
+#
+./disch_river.dbf,rivernet,CATCHMENT,DISCHRIVER
+./disch_river.shp,rivernet,CATCHMENT,DISCHRIVER
+./disch_river.shx,rivernet,CATCHMENT,DISCHRIVER
